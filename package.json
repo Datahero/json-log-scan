@@ -1,0 +1,16 @@
+{
+  "name": "json-log-scan",
+  "version": "0.0.1",
+  "description": "Quick Node script to progamatically parse and extract fields from JSON logs into TSV or CSV",
+  "main": "LogScan.js",
+  "dependencies": {
+    "lodash": "^3.7.0",
+    "readline": "0.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan Lopuch (http://www.datahero.com)",
+  "license": "MIT"
+}
